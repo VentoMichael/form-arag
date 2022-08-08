@@ -4,7 +4,11 @@
     <list default="true" id="b5c925bb-7462-4281-85a3-ce58947ea1b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/nl_body_idfraud.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/tinyi18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/json/translations.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +89,23 @@
       <workItem from="1659343264504" duration="8594000" />
       <workItem from="1659429746149" duration="20150000" />
       <workItem from="1659537356121" duration="647000" />
-      <workItem from="1659538090480" duration="4466000" />
+      <workItem from="1659538090480" duration="13676000" />
+      <workItem from="1659943321885" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
